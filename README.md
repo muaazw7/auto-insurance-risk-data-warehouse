@@ -20,7 +20,10 @@ The data warehouse was designed to support analytical reporting and risk analysi
 - Designed a star schema with a central claim fact table
 - Created driver, vehicle, insurance, accident, coverage, and time dimensions
 - Modeled claim cost and premium data for risk and profitability analysis
-- Supported analytical reporting on claim severity, driver risk, vehicle risk, coverage analysis, and insurance profitability
+- Supported executive reporting and business intelligence for claim severity, driver risk, profitability, coverage analysis, and accident trends.
+
+## Business Value
+The dimensional warehouse enables faster analytical reporting by organizing insurance data into a scalable star schema optimized for business intelligence workloads.
 
 ## Skills Demonstrated
 - Data Warehousing
