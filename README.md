@@ -49,4 +49,4 @@ The dimensional warehouse enables faster analytical reporting by organizing insu
 ### Analytical Use Cases
 The warehouse supports analysis of claim severity, driver risk, vehicle risk, accident trends, coverage performance, pricing strategy, and time-based reporting.
 
-![Auto Insurance Analytical Use Cases](images/auto-insurance-analytical-use-cases.png)
+![Insurance Risk Analysis](images/insurance-risk-analysis.png)
