@@ -1,6 +1,5 @@
 # Auto Insurance Risk Data Warehouse
-
-This project designs a dimensional data warehouse for auto insurance risk analysis using star schema modeling, fact and dimension tables, attribute hierarchies, and ETL concepts.
+This project designs a dimensional data warehouse for auto insurance risk analysis using star schema modeling, fact and dimension tables, attribute hierarchies, and business intelligence concepts.
 
 ## Tools Used
 - Microsoft SQL Server
@@ -13,7 +12,7 @@ This project designs a dimensional data warehouse for auto insurance risk analys
 Insurance companies require structured analytical data models to evaluate claim severity, driver risk, accident trends, coverage exposure, and profitability. This project designs a dimensional warehouse structure to support scalable reporting and business intelligence analysis.
 
 ## Project Overview
-The data warehouse was designed to support analytical reporting and risk analysis for an auto insurance company. The model uses a central claim fact table connected to driver, vehicle, insurance, accident, coverage, and time dimensions.
+The data warehouse was designed to support analytical reporting and risk analysis for an auto insurance company. The model uses a central claim fact table connected to driver, vehicle, insurance, accident, coverage, and time dimensions to enable multidimensional analysis.
 
 ## Data Warehouse Summary
 - Star schema architecture
@@ -24,26 +23,30 @@ The data warehouse was designed to support analytical reporting and risk analysi
 - Optimized for analytical reporting
 
 ## Key Features
-- Designed a star schema with a central claim fact table
+- Designed a dimensional star schema centered on insurance claims
 - Created driver, vehicle, insurance, accident, coverage, and time dimensions
-- Modeled claim cost and premium data for risk and profitability analysis
-- Supported executive reporting and business intelligence for claim severity, driver risk, profitability, coverage analysis, and accident trends
+- Modeled claim cost and premium data for multidimensional analysis
+- Structured the warehouse to support driver risk analysis, vehicle risk analysis, accident trend analysis, coverage analysis, and profitability reporting
+- Designed the warehouse to support executive reporting and business intelligence applications
 
 ## Business Value
-The dimensional warehouse enables faster analytical reporting by organizing insurance data into a scalable star schema optimized for business intelligence, executive reporting, and analytical workloads.
+The dimensional warehouse enables faster analytical reporting by organizing insurance data into a scalable star schema optimized for business intelligence, executive reporting, risk segmentation, pricing analysis, and profitability analysis.
 
 ## Skills Demonstrated
 - Data Warehousing
-- SQL
+- Dimensional Modeling
+- Star Schema Design
 - Data Modeling
 - Business Intelligence
 - ETL Concepts
-- Star Schema Design
+- SQL Server
 
 ## Data Warehouse Design
 
 ### Star Schema
 ![Auto Insurance Star Schema](images/auto-insurance-star-schema.png)
 
-### Business Intelligence Reporting Example
-![Insurance Risk Analysis](images/insurance-risk-analysis.png)
+### Analytical Use Cases
+The warehouse supports analysis of claim severity, driver risk, vehicle risk, accident trends, coverage performance, pricing strategy, and time-based reporting.
+
+![Auto Insurance Analytical Use Cases](images/auto-insurance-analytical-use-cases.png)
