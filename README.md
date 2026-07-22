@@ -14,6 +14,14 @@ Insurance companies require structured analytical data models to evaluate claim 
 ## Project Overview
 The data warehouse was designed to support analytical reporting and risk analysis for an auto insurance company. The model uses a central claim fact table connected to driver, vehicle, insurance, accident, coverage, and time dimensions.
 
+## Data Warehouse Summary
+- Star schema architecture
+- Central claim fact table
+- Six dimension tables
+- Dimensional modeling
+- ETL-ready warehouse design
+- Optimized for analytical reporting
+
 ## Key Features
 - Designed a star schema with a central claim fact table
 - Created driver, vehicle, insurance, accident, coverage, and time dimensions
@@ -23,14 +31,6 @@ The data warehouse was designed to support analytical reporting and risk analysi
 ## Business Value
 The dimensional warehouse enables faster analytical reporting by organizing insurance data into a scalable star schema optimized for business intelligence workloads.
 
-## Data Warehouse Summary
-- Star schema architecture
-- Central claim fact table
-- Six dimension tables
-- Dimensional modeling
-- ETL-ready warehouse design
-- Optimized for analytical reporting
-
 ## Skills Demonstrated
 - Data Warehousing
 - SQL
@@ -39,6 +39,6 @@ The dimensional warehouse enables faster analytical reporting by organizing insu
 - ETL Concepts
 - Star Schema Design
 
-## Project Images
-![Auto Insurance Star Schema](images/auto-insurance-star-schema.png)
-![Insurance Risk Analysis](images/insurance-risk-analysis.png)
+## Data Warehouse Design
+## Star Schema ![Auto Insurance Star Schema](images/auto-insurance-star-schema.png)
+### Business Intelligence Reporting Example ![Insurance Risk Analysis](images/insurance-risk-analysis.png)
