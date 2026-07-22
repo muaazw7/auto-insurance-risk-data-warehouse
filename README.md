@@ -40,5 +40,7 @@ The dimensional warehouse enables faster analytical reporting by organizing insu
 - Star Schema Design
 
 ## Data Warehouse Design
-## Star Schema ![Auto Insurance Star Schema](images/auto-insurance-star-schema.png)
-### Business Intelligence Reporting Example ![Insurance Risk Analysis](images/insurance-risk-analysis.png)
+## Star Schema
+![Auto Insurance Star Schema](images/auto-insurance-star-schema.png)
+### Business Intelligence Reporting Example
+![Insurance Risk Analysis](images/insurance-risk-analysis.png)
