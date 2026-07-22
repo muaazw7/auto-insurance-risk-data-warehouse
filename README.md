@@ -29,7 +29,7 @@ The data warehouse was designed to support analytical reporting and risk analysi
 - Supported executive reporting and business intelligence for claim severity, driver risk, profitability, coverage analysis, and accident trends.
 
 ## Business Value
-The dimensional warehouse enables faster analytical reporting by organizing insurance data into a scalable star schema optimized for business intelligence workloads.
+The dimensional warehouse enables faster analytical reporting by organizing insurance data into a scalable star schema optimized for business intelligence, executive reporting, and analytical workloads.
 
 ## Skills Demonstrated
 - Data Warehousing
