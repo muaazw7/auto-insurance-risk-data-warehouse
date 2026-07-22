@@ -23,6 +23,14 @@ The data warehouse was designed to support analytical reporting and risk analysi
 ## Business Value
 The dimensional warehouse enables faster analytical reporting by organizing insurance data into a scalable star schema optimized for business intelligence workloads.
 
+## Data Warehouse Summary
+- Star schema architecture
+- Central claim fact table
+- Six dimension tables
+- Dimensional modeling
+- ETL-ready warehouse design
+- Optimized for analytical reporting
+
 ## Skills Demonstrated
 - Data Warehousing
 - SQL
