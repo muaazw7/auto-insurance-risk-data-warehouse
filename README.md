@@ -1,5 +1,4 @@
 # Auto Insurance Risk Data Warehouse
-
 This project designs a dimensional data warehouse for auto insurance risk analysis using star schema modeling, fact and dimension tables, attribute hierarchies, and ETL concepts.
 
 ## Tools Used
@@ -10,7 +9,6 @@ This project designs a dimensional data warehouse for auto insurance risk analys
 - Business Intelligence
 
 ## Business Problem
-
 Insurance companies require structured analytical data models to evaluate claim severity, driver risk, accident trends, coverage exposure, and profitability. This project designs a dimensional warehouse structure to support scalable reporting and business intelligence analysis.
 
 ## Project Overview
@@ -34,7 +32,5 @@ The dimensional warehouse enables faster analytical reporting by organizing insu
 - Star Schema Design
 
 ## Project Images
-
 ![Auto Insurance Star Schema](images/auto-insurance-star-schema.png)
-
 ![Insurance Risk Analysis](images/insurance-risk-analysis.png)
